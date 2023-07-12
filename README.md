@@ -12,6 +12,6 @@ update
 
 HOla mundo
 
-## Cambions nuevos
+## Cambions nuevos desde git
 
 asfaf
